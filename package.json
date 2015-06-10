@@ -1,0 +1,16 @@
+{
+  "name": "NodeCopter_Controller",
+  "version": "1.0.0",
+  "description": "This is a browser based controller for you Parrot Ar Drone 2.0.",
+  "main": "node-copter.js",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "socket.io": "^1.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Logan",
+  "license": "MIT"
+}
